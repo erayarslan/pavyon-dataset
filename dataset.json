@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Three",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Lodges are small"],
+        "is_club": true
+    },
+    {
+        "name": "Tren",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["Seems like they took the tables from the park"],
+        "is_club": true
+    },
+    {
+        "name": "Mascotte",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Nice decor", "Nice place", "Lots of young people"],
+        "is_club": true
+    },
+    {
+        "name": "Öküz",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Nice decor", "Nice place", "Good service", "Good waiters"],
+        "is_club": true
+    },
+    {
+        "name": "Winner",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["Large space", "Nice location"],
+        "is_club": true
+    },
+    {
+        "name": "Cavalli",
+        "city": "Ankara",
+        "score": 7,
+        "comments": [],
+        "is_club": true
+    },
+    {
+        "name": "Sess Plus",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Good service", "Class"],
+        "is_club": true
+    },
+    {
+        "name": "D'lux",
+        "city": "Ankara",
+        "score": 7,
+        "comments": ["For the elderly"],
+        "is_club": true
+    },
+    {
+        "name": "Kristal",
+        "city": "Ankara",
+        "score": 7,
+        "comments": [],
+        "is_club": false
+    },
+    {
+        "name": "İzabel",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Entertains you", "Makes you jump"],
+        "is_club": false
+    },
+    {
+        "name": "Elhamra",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Spends 12 years"],
+        "is_club": false
+    },
+    {
+        "name": "Milano",
+        "city": "Ankara",
+        "score": 8,
+        "comments": [],
+        "is_club": false
+    },
+    {
+        "name": "Reyna",
+        "city": "Ankara",
+        "score": 9,
+        "comments": ["Large space", "They make you wait too long at the soup shop"],
+        "is_club": false
+    },
+    {
+        "name": "Mega Show",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["Nice scene", "Too crowded", "You can't have your back against the wall"],
+        "is_club": false
+    },
+    {
+        "name": "Yalıkent",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["For the insatiable"],
+        "is_club": false
+    },
+    {
+        "name": "Antik Show",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["Makes you sad"],
+        "is_club": false
+    },
+    {
+        "name": "Konak",
+        "city": "Ankara",
+        "score": 8,
+        "comments": ["For the first timers"],
+        "is_club": false
+    }
+]
